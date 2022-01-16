@@ -11,6 +11,12 @@
   min-height: 200px;
 }
 
+.cover:hover {
+    opacity: 0.8;
+    background-color: #2a2c2f;
+  
+}
+
 @media screen and (min-width: 768px) {
   .cover {
     min-height: 480px;
@@ -29,8 +35,4 @@
   }
 }
 
-.cover:hover {
-    opacity: 0.8;
-    background-color: #2a2c2f;
-  
-}
+
