@@ -1,15 +1,12 @@
 .header__logo {
-    object-fit: cover;
-    transition-duration: 0.5s;
-    width: 142px;
-    height: 42px;
+  object-fit: cover;
+  width: 142px;
+  height: 42px;
 }
 
-
-
-@media screen and (min-width:768px) {
-    .header__logo {
-        width: 176px;
-        height: 52px;
-}
+@media screen and (min-width: 768px) {
+  .header__logo {
+    width: 176px;
+    height: 52px;
+  }
 }
