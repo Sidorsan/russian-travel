@@ -5,10 +5,10 @@
   color: #ffffff;
   margin-left: auto;
   margin-top: 14px;
+  text-decoration: none;
 }
 
 .header__lang-link:nth-of-type(2) {
-  text-decoration: none;
   margin-left: 18px;
 }
 
