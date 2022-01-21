@@ -6,13 +6,11 @@
   align-items: center;
   margin-top: 66px;
   min-height: 200px;
-
-  background: url(../../sprint-3-images/cover-trains.jpg);
+  background: url(../../images/cover-trains.jpg);
   text-decoration: none;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  display: flex;
   z-index: 0;
 }
 
@@ -43,7 +41,7 @@
   right: 0;
   top: 0;
   bottom: 0;
-  background: #2A2C2F;
+  background: #2a2c2f;
   opacity: 0.3;
   transition: opacity 0.3s;
   z-index: -1;
