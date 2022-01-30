@@ -1,0 +1,8 @@
+.container__item {
+    margin-top: 8px;
+    display: flex;
+    flex-direction: column;
+}
+.container__item:first-child {
+    margin-top: 0;
+}

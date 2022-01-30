@@ -1,0 +1,6 @@
+.container__item_character_kamchatka {
+    background-image: url(../../../../images/kamchatka.jpg);
+    min-height: 192px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

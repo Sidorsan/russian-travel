@@ -27,6 +27,17 @@
 @import url(../blocks/website/__link/website__link.css);
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
+@import url(../blocks/video/video.css);
+@import url(../blocks/video/__content-title/video__content-title.css);
+@import url(../blocks/video/__content-subtitle/video__content-subtitle.css);
+@import url(../blocks/container/container.css);
+@import url(../blocks/container/__item/container__item.css);
+@import url(../blocks/container/__item/_character/container__item_character_kamchatka.css);
+@import url(../blocks/container/__item/_icon-play/container__item_icon-play.css);
+@import url(../blocks/container/__item/_duration/container__item_duration.css);
+@import url(../blocks/container/__item/_title/container__item_title.css);
+@import url(../blocks/container/__item/_subtitle/container__item_subtitle.css);
+@import url(../blocks/container/__item/_character/container__item_character_observatory.css);
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__link/cover__link.css);
 @import url(../blocks/cover/__title/cover__title.css);
