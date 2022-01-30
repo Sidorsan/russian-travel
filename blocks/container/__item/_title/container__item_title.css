@@ -7,3 +7,18 @@
   color: #ffffff;
   margin: 8px 0 0 16px;
 }
+
+@media screen and (min-width: 375px) {
+  .container__item_title {
+    max-width: 295px;
+    margin-left: 24px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .container__item_title {
+    max-width: 322px;
+    font-size: 36px;
+    margin: 12px 0 0 30px;
+  }
+}

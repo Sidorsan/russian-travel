@@ -4,7 +4,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 66px;
+    
     min-height: 200px;
     background: url(../../../images/cover-trains.jpg);
     text-decoration: none;
@@ -29,8 +29,7 @@
   @media screen and (min-width: 1280px) {
     .cover__link {
       min-height: 740px;
-      margin-left: 48px;
-      margin-right: 48px;
+      
     }
   }
   

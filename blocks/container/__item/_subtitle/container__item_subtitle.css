@@ -5,5 +5,30 @@
   font-size: 14px;
   line-height: 1.07;
   color: #ffffff;
-  margin: 0 0 16px 16px;
+  margin: 3px 0 16px 16px;
 }
+
+@media screen and (min-width: 375px) {
+    .container__item_subtitle {
+      margin-bottom: 24px;
+      margin-left: 24px;
+    }
+  }
+
+  @media screen and (min-width: 768px) {
+    .container__item_subtitle {
+      margin-top: 12px;
+    }
+  }
+ 
+  @media screen and (min-width: 1024px) {
+    .container__item_subtitle {
+      margin: 18px 0 35px 30px;
+    }
+  }
+
+  @media screen and (min-width: 1280px) {
+    .container__item_subtitle {
+      margin-bottom: 30px;
+    }
+  }

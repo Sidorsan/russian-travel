@@ -1,6 +1,18 @@
 .container {
-    margin: 24px 0 0;
-    padding: 0;
-    list-style: none;
-    
+  margin: 24px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    display: flex;
+    margin: 56px 0 0;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .container {
+    margin-top: 73px;
+  }
 }

@@ -8,3 +8,20 @@
   color: #ffffff;
   margin: 16px 0 0;
 }
+
+@media screen and (min-width: 768px) {
+  .video__content-subtitle {
+    font-size: 24px;
+    margin: 31px 0 0 46px;
+    max-width: 640px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .video__content-subtitle {
+    font-size: 24px;
+    margin: 0;
+    margin-top: 48px;
+    align-self: center;
+  }
+}

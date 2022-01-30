@@ -1,5 +1,21 @@
 .cover {
-  
+  max-width: 1184px;
+  margin: 66px auto 0;
 }
 
 
+@media screen and (min-width: 1280px) {
+    .cover {
+      
+      margin-left: 48px;
+      margin-right: 48px;
+    }
+  }
+
+  @media screen and (min-width: 1440px) {
+    .cover {
+      
+      margin-left: 128px;
+      margin-right: 128px;
+    }
+  }

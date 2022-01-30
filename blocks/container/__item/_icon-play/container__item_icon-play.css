@@ -1,5 +1,17 @@
 .container__item_icon-play {
-    margin: 16px 0 0 16px;
-    width: 41px;
-    height: 41px;
+  margin: 16px 0 0 16px;
+  width: 41px;
+  height: 41px;
+}
+
+@media screen and (min-width: 375px) {
+  .container__item_icon-play {
+    margin: 24px 0 0 24px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .container__item_icon-play {
+    margin: 30px 0 0 30px;
+  }
 }
